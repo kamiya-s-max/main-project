@@ -1,0 +1,6 @@
+[submodule "main-project"]
+	path = main-project
+	url = git@github.com:kamiya-s-max/main-project.git
+[submodule "sub-project"]
+	path = sub-project
+	url = git@github.com:kamiya-s-max/sub-project.git
